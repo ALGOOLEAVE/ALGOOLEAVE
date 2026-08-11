@@ -4,18 +4,13 @@
 
 ### Professional Web Development & Software Solutions
 
-https://img.shields.io/github/stars/ALGOOLEAVE/ALGOOLEAVE?style=for-the-badge
-https://img.shields.io/github/forks/ALGOOLEAVE/ALGOOLEAVE?style=for-the-badge
-https://img.shields.io/github/issues/ALGOOLEAVE/ALGOOLEAVE?style=for-the-badge
-https://img.shields.io/github/license/ALGOOLEAVE/ALGOOLEAVE?style=for-the-badge
+assets/images/banner.png
+
+assets/images/desktop-preview.png
+
+assets/images/mobile-preview.png
 
 </div>
-
----
-
-# 🖼️ Project Banner
-
-https://raw.githubusercontent.com/ALGOOLEAVE/ALGOOLEAVE/main/Banner%20simple%20red_20260811_235402_%D9%A0%D9%A0%D9%A0%D9%A0.png
 
 ---
 
@@ -27,13 +22,13 @@ Algooleave Project is a professional software solution designed to deliver moder
 
 ## 🖼️ Preview
 
-### Desktop Preview
+### Desktop View
 
-https://raw.githubusercontent.com/ALGOOLEAVE/ALGOOLEAVE/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner_20260811_235844_%D9%A0%D9%A0%D9%A0%D9%A0.png
+https://via.placeholder.com/1200x700.png?text=Desktop+Preview
 
-### Project Logo
+### Mobile View
 
-https://raw.githubusercontent.com/ALGOOLEAVE/ALGOOLEAVE/main/%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%B5%F0%9D%97%B5%F0%9D%97%B2%F0%9D%97%BF%F0%9D%98%86%F0%9D%98%81%F0%9D%97%B6_20260723_024713_%D9%A0%D9%A0%D9%A0%D9%A0.png
+https://via.placeholder.com/350x700.png?text=Mobile+Preview
 
 ---
 
@@ -51,22 +46,46 @@ https://raw.githubusercontent.com/ALGOOLEAVE/ALGOOLEAVE/main/%F0%9D%97%AE%F0%9D%
 
 ## 🛠️ Tech Stack
 
-- HTML5
-- CSS3
-- JavaScript
-- Git
-- GitHub
+| Technology | Usage |
+|------------|--------|
+| HTML5 | Structure |
+| CSS3 | Styling |
+| JavaScript | Functionality |
+| Git | Version Control |
+| GitHub | Repository Hosting |
 
 ---
+
+## 📂 Project Structure
+
+```text
+project-root/
+│
+├── assets/
+│   ├── images/
+│   └── icons/
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── script.js
+│
+├── index.html
+│
+└── README.md
+```
 
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/ALGOOLEAVE/ALGOOLEAVE.git
-cd ALGOOLEAVE
+git clone https://github.com/USERNAME/REPOSITORY.git
+cd REPOSITORY
 ```
 
 ## ▶️ Usage
+
+Open the project in your browser:
 
 ```bash
 index.html
@@ -106,7 +125,8 @@ Distributed under the MIT License.
 
 **Algooleave**
 
-- GitHub: https://github.com/ALGOOLEAVE
+- GitHub: https://github.com/USERNAME
+- Portfolio: https://yourwebsite.com
 
 ---
 
@@ -117,4 +137,4 @@ Distributed under the MIT License.
 Made with ❤️ by Algooleave
 
 </div>
-cd REPOSITORY
+
